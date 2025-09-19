@@ -1,14 +1,9 @@
 # Lada's Bio
 
-> "When I look back at the projects I worked on before and compare them to what I'm doing now, the difference is like night and day.  
-> A significant part of that transformation is attributable to what I learned from Lada."  
-> -- Feedback from teammates  
-  
-Lada is a seasoned team leader with over 12 years of experience in Java and microservices. 
-She is passionately committed to ensuring code quality, fostering cohesive, safe, and productive teams, 
-and is dedicated to continuous learning and mentoring through pair programming and mob programming techniques.
+Lada is a seasoned practitioner of extreme programming, Test-Driven Development, and Domain-Driven Design who transforms complex legacy systems into maintainable architectures through incremental improvement and continuous refactoring.
 
-In addition to her technical skills, she also loves learning languages, is fluent in English and Russian, 
-can speak a little French and Portuguese, and is currently immersed in learning Japanese.
+Her approach pairs deep technical expertise with genuine empathy for both end users and fellow developers, creating resilient systems that truly serve their users.
 
-[picture here](images/lada_2021.jpeg)
+
+
+[picture here](images/lada_kesseler.jpg)
