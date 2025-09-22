@@ -4,6 +4,4 @@ Lada is a seasoned practitioner of extreme programming, Test-Driven Development,
 
 Her approach pairs deep technical expertise with genuine empathy for both end users and fellow developers, creating resilient systems that truly serve their users.
 
-
-
-[picture here](images/lada_kesseler.jpg)
+[Photo](images/lada_kesseler.jpg)
