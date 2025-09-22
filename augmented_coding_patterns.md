@@ -6,7 +6,7 @@
 
 * [LinkedIn](https://www.linkedin.com/in/lada-kesseler/)
 * [Blog](https://lexler.substack.com/)
-* [Bluesky](bsky.app/profile/lexler.bsky.social )<!-- endInclude -->
+* [Bluesky](https://bsky.app/profile/lexler.bsky.social)<!-- endInclude -->
 
 
 ## Description
