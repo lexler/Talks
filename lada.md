@@ -2,4 +2,4 @@
 
 * [LinkedIn](https://www.linkedin.com/in/lada-kesseler/)
 * [Blog](https://lexler.substack.com/)
-* [Bluesky](https://bsky.app/profile/lexler.bsky.social)
+* [Bluesky](bsky.app/profile/lexler.bsky.social )
