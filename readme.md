@@ -1,13 +1,20 @@
 # Talks
 
-This is a starter project for your talk resources.
+Resources for talks
 
-## Main Idea
+## Speaker
+### Lada Kesseler
+<!-- include: ladas_bio.md -->
+Lada is a seasoned practitioner of extreme programming, Test-Driven Development, and Domain-Driven Design who transforms complex legacy systems into maintainable architectures through incremental improvement and continuous refactoring.
 
-create a `talk_title.md` page per talk with links and resources for the talk
+Her approach pairs deep technical expertise with genuine empathy for both end users and fellow developers, creating resilient systems that truly serve their users.
 
-## Tech
+<!-- endInclude -->
 
-This uses [MdSnippets](https://mdsnippets.com)
-You will need to enable write abilities in your settings
-Settings > Actions > General > [x] Read and Write ability
+* [LinkedIn](https://www.linkedin.com/in/lada-kesseler/)
+* [Blog](https://lexler.substack.com/)
+* [Bluesky](https://bsky.app/profile/lexler.bsky.social)
+
+## Talks
+* [Augmented Coding: Mapping the Uncharted Territory](augmented_coding_patterns.md)
+* [Tetlling Better Stories with Tests](telling_better_stories_with_tests.md)
