@@ -4,10 +4,7 @@
 
 ## Lada Kesseler<!-- include: lada.md -->
 
-* [LinkedIn](https://www.linkedin.com/in/lada-kesseler/)
-* [Blog](https://lexler.substack.com/)
-* [Bluesky](bsky.app/profile/lexler.bsky.social )
-<!-- endInclude -->
+* [LinkedIn](https://www.linkedin.com/in/lada-kesseler/)<!-- endInclude -->
 
 
 ## Description
