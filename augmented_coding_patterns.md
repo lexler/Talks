@@ -5,6 +5,7 @@
 * [Detailed Patterns](https://github.com/lexler/augmented-coding-patterns)
 * Kent Beck [Coding Genie](https://tidyfirst.substack.com/p/augmented-coding-beyond-the-vibes)
 * Elisabeth Hendrickson [chatGPT](https://www.youtube.com/watch?v=ky37oCoyUdI) 
+* ![Map](https://github.com/lexler/augmented-coding-patterns/blob/main/slides/map.png?raw=true)
 
 ## Lada Kesseler<!-- include: lada.md -->
 
