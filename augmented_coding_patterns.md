@@ -16,7 +16,6 @@
 * [Blog](https://lexler.substack.com/)
 * [Bluesky](https://bsky.app/profile/lexler.bsky.social)<!-- endInclude -->
 
-
 ## Description
 ### Title: Augmented Coding: Mapping the Uncharted Territory
 
