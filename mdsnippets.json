@@ -1,6 +1,7 @@
 {
     "ExcludeDirectories": [ "target" ],
     "Convention": "InPlaceOverwrite",
+    "UrlsAsSnippets": ["https://raw.githubusercontent.com/isidore/Talks/master/llewellyn.md"]
     "TocLevel": 5
   }
   
