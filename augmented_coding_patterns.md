@@ -1,7 +1,8 @@
 # Augmented Coding: Mapping the Uncharted Territory
 
 ## Talk Resources
-* Slides
+* [Slides](https://github.com/lexler/augmented-coding-patterns/raw/refs/heads/main/slides/Augmented%20Coding%20Patterns.pptx)
+* [Detailed Patterns](https://github.com/lexler/augmented-coding-patterns)
 * Kent Beck [Coding Genie](https://tidyfirst.substack.com/p/augmented-coding-beyond-the-vibes)
 * Elisabeth Hendrickson [chatGPT](https://www.youtube.com/watch?v=ky37oCoyUdI) 
 
