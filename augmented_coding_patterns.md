@@ -3,7 +3,10 @@
 ## Talk Resources
 * [Slides](https://github.com/lexler/augmented-coding-patterns/raw/refs/heads/main/slides/Augmented%20Coding%20Patterns.pptx)
 * [Detailed Patterns](https://github.com/lexler/augmented-coding-patterns)
-* Kent Beck [Coding Genie](https://tidyfirst.substack.com/p/augmented-coding-beyond-the-vibes)
+* Kent Beck 
+  * [Coding Genie](https://youtu.be/aSXaxOdVtAQ?t=362) 
+  * [3X and LLMs](https://www.youtube.com/watch?v=wh-kwZ6Kvdo)
+* Llewellyn Falco [Process Files](https://youtu.be/MMqahx1PRQo?list=PLcTa2e7_ENN8cryNl4LZtszr_gyoqbAVm)
 * Elisabeth Hendrickson [chatGPT](https://www.youtube.com/watch?v=ky37oCoyUdI) 
 * ![Map](https://github.com/lexler/augmented-coding-patterns/blob/main/slides/map.png?raw=true)
 
