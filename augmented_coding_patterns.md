@@ -1,6 +1,9 @@
 # Augmented Coding: Mapping the Uncharted Territory
 
 ## Talk Resources
+* Slides
+* Kent Beck [Coding Genie](https://tidyfirst.substack.com/p/augmented-coding-beyond-the-vibes)
+* Elisabeth Hendrickson [chatGPT](https://www.youtube.com/watch?v=ky37oCoyUdI) 
 
 ## Lada Kesseler<!-- include: lada.md -->
 
