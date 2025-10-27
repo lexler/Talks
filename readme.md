@@ -18,4 +18,4 @@ Her approach pairs deep technical expertise with genuine empathy for both end us
 
 ## Talks
 * [Augmented Coding: Mapping the Uncharted Territory](augmented_coding_patterns.md)
-* [Tetlling Better Stories with Tests](telling_better_stories_with_tests.md)
+* [Telling Better Stories with Tests](telling_better_stories_with_tests.md)
