@@ -10,6 +10,9 @@
 * Elisabeth Hendrickson [chatGPT](https://www.youtube.com/watch?v=ky37oCoyUdI) 
 * ![Map](https://github.com/lexler/augmented-coding-patterns/blob/main/slides/map.png?raw=true)
 
+## Videos
+* [Calgary Software Crafters 2025]([https://www.youtube.com/watch?v=TTDT2arrvpY](https://www.youtube.com/watch?v=_LSK2bVf0Lc&t=5341s))
+
 ## Lada Kesseler<!-- include: lada.md -->
 
 * [LinkedIn](https://www.linkedin.com/in/lada-kesseler/)
