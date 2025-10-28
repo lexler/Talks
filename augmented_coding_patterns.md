@@ -8,7 +8,8 @@
   * [3X and LLMs](https://www.youtube.com/watch?v=wh-kwZ6Kvdo)
 * Llewellyn Falco [Process Files](https://youtu.be/MMqahx1PRQo?list=PLcTa2e7_ENN8cryNl4LZtszr_gyoqbAVm)
 * Elisabeth Hendrickson [chatGPT](https://www.youtube.com/watch?v=ky37oCoyUdI) 
-* ![Map](https://github.com/lexler/augmented-coding-patterns/blob/main/slides/map.png?raw=true)
+
+![Map](https://github.com/lexler/augmented-coding-patterns/blob/main/slides/map.png?raw=true)
 
 ## Videos
 * [Calgary Software Crafters 2025](https://www.youtube.com/watch?v=_LSK2bVf0Lc)
