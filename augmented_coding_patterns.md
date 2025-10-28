@@ -11,7 +11,7 @@
 * ![Map](https://github.com/lexler/augmented-coding-patterns/blob/main/slides/map.png?raw=true)
 
 ## Videos
-* [Calgary Software Crafters 2025]([https://www.youtube.com/watch?v=TTDT2arrvpY](https://www.youtube.com/watch?v=_LSK2bVf0Lc&t=5341s))
+* [Calgary Software Crafters 2025](https://www.youtube.com/watch?v=_LSK2bVf0Lc)
 
 ## Lada Kesseler<!-- include: lada.md -->
 
