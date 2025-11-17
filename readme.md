@@ -23,4 +23,4 @@ Over the past year, she's been exploring how to bring the same rigor and craft t
 * [Telling Better Stories with Tests](telling_better_stories_with_tests.md)
 
 ## Masterclasses
-* [Emerging Patterns for Coding with Generative AI](ai_coding_patterns_masterclass.md)
+* [Emerging Patterns for Coding with Generative AI](augmented_coding_patterns_masterclass.md)
