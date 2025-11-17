@@ -6,7 +6,9 @@
 * Kent Beck 
   * [Coding Genie](https://youtu.be/aSXaxOdVtAQ?t=362) 
   * [3X and LLMs](https://www.youtube.com/watch?v=wh-kwZ6Kvdo)
-* Llewellyn Falco [Process Files](https://youtu.be/MMqahx1PRQo?list=PLcTa2e7_ENN8cryNl4LZtszr_gyoqbAVm)
+* Llewellyn Falco
+  * [Process Files](https://youtu.be/MMqahx1PRQo?list=PLcTa2e7_ENN8cryNl4LZtszr_gyoqbAVm)
+  * [Refactoring Process](https://github.com/LearnWithLlew/AgenticAi.Java.StarterProject/blob/master/.windsurf/processes/TDD.refactoring.process.md)
 * Elisabeth Hendrickson [chatGPT](https://www.youtube.com/watch?v=ky37oCoyUdI) 
 
 ![Map](https://github.com/lexler/augmented-coding-patterns/blob/main/slides/map.png?raw=true)
