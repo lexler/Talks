@@ -2,6 +2,7 @@
 
 ## Talk Resources
 * [Slides](https://github.com/lexler/augmented-coding-patterns/raw/refs/heads/main/slides/Augmented%20Coding%20Patterns.pptx)
+* [Slides](https://github.com/lexler/Talks/raw/refs/heads/main/Slides/Augmented%20Coding%20Patterns.pptx)
 * [Detailed Patterns](https://github.com/lexler/augmented-coding-patterns)
 * Kent Beck 
   * [Coding Genie](https://youtu.be/aSXaxOdVtAQ?t=362) 
