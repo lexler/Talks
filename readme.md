@@ -1,4 +1,4 @@
-# Talks
+# Public Speaking
 
 Resources for talks and other public events
 
@@ -19,7 +19,8 @@ Over the past year, she's been exploring how to bring the same rigor and craft t
 * [Bluesky](https://bsky.app/profile/lexler.bsky.social)
 
 ## Talks
-* [Emerging Patterns for Coding with Generative AI](ai_coding_patterns_masterclass.md)
 * [Augmented Coding: Mapping the Uncharted Territory](augmented_coding_patterns.md)
 * [Telling Better Stories with Tests](telling_better_stories_with_tests.md)
- 
+
+## Masterclasses
+* [Emerging Patterns for Coding with Generative AI](ai_coding_patterns_masterclass.md)
