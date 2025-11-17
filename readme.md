@@ -1,6 +1,6 @@
 # Talks
 
-Resources for talks
+Resources for talks and other public events
 
 ## Speaker
 ### Lada Kesseler
@@ -17,5 +17,7 @@ Her approach pairs deep technical expertise with genuine empathy for both end us
 * [Bluesky](https://bsky.app/profile/lexler.bsky.social)
 
 ## Talks
+* [Emerging Patterns for Coding with Generative AI](ai_coding_patterns_masterclass.md)
 * [Augmented Coding: Mapping the Uncharted Territory](augmented_coding_patterns.md)
 * [Telling Better Stories with Tests](telling_better_stories_with_tests.md)
+ 
