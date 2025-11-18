@@ -3,6 +3,7 @@
 ## Masterclass Resources
 * [Slides](https://github.com/lexler/augmented-coding-patterns/raw/refs/heads/main/slides/Augmented%20Coding%20Patterns.pptx)
 * [Detailed Patterns](https://github.com/lexler/augmented-coding-patterns)
+* [Companion Website](https://lexler.github.io/augmented-coding-patterns)
 * Kent Beck
     * [Coding Genie](https://youtu.be/aSXaxOdVtAQ?t=362)
     * [3X and LLMs](https://www.youtube.com/watch?v=wh-kwZ6Kvdo)
