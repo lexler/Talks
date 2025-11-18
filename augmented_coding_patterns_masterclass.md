@@ -11,7 +11,7 @@
     * [Refactoring Process](https://github.com/LearnWithLlew/AgenticAi.Java.StarterProject/blob/master/.windsurf/processes/TDD.refactoring.process.md)
 * Elisabeth Hendrickson [chatGPT](https://www.youtube.com/watch?v=ky37oCoyUdI)
 
-![Map](https://github.com/lexler/augmented-coding-patterns/blob/main/slides/map.png?raw=true)
+![Map](https://raw.githubusercontent.com/lexler/Talks/refs/heads/main/images/map_v2.png?raw=true)
 
 This workshop is an extension of [Augmented Coding: Mapping the Uncharted Territory](augmented_coding_patterns.md)
 
