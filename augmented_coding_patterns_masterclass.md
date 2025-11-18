@@ -10,7 +10,7 @@
 * Llewellyn Falco 
     * [Process Files](https://youtu.be/MMqahx1PRQo?list=PLcTa2e7_ENN8cryNl4LZtszr_gyoqbAVm)
     * [Refactoring Process](https://github.com/LearnWithLlew/AgenticAi.Java.StarterProject/blob/master/.windsurf/processes/TDD.refactoring.process.md)
-    * [Telling Better Stories with Tests] (https://www.youtube.com/watch?v=h5vXHrL7ETQ&list=PLcTa2e7_ENN8cryNl4LZtszr_gyoqbAVm&index=5) - demonstrates Semantic Zoom in tests & shows how iterative refinement allows you to see more and get to so much better.
+    * [Telling Better Stories with Tests](https://www.youtube.com/watch?v=h5vXHrL7ETQ&list=PLcTa2e7_ENN8cryNl4LZtszr_gyoqbAVm&index=5) - demonstrates Semantic Zoom in tests & shows how iterative refinement allows you to see more and get to so much better.
 * Elisabeth Hendrickson [chatGPT](https://www.youtube.com/watch?v=ky37oCoyUdI)
 
 ![Map](https://raw.githubusercontent.com/lexler/Talks/refs/heads/main/images/map_v2.png?raw=true)
