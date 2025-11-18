@@ -1,7 +1,7 @@
 # Emerging Patterns for Coding with Generative AI
 
 ## Masterclass Resources
-* [Slides](https://github.com/lexler/augmented-coding-patterns/raw/refs/heads/main/slides/Augmented%20Coding%20Patterns.pptx)
+* [Slides](https://github.com/lexler/augmented-coding-patterns/raw/refs/heads/main/slides/Emerging%20Patterns%20for%20Coding%20with%20Generative%20AI.pptx)
 * [Detailed Patterns](https://github.com/lexler/augmented-coding-patterns)
 * [Companion Website](https://lexler.github.io/augmented-coding-patterns)
 * Kent Beck
