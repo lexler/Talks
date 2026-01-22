@@ -2,7 +2,9 @@
 
 ## Talk Resources
 * [Slides](https://github.com/lexler/Talks/raw/refs/heads/main/Slides/Augmented%20Coding%20Patterns.pptx)
+* [Slides (longer masterclass version)](https://raw.githubusercontent.com/lexler/Talks/main/Slides/Emerging%20Patterns%20for%20Coding%20with%20Generative%20AI.pptx)
 * [Detailed Patterns](https://github.com/lexler/augmented-coding-patterns)
+* [Companion Website](https://lexler.github.io/augmented-coding-patterns)
 * Kent Beck 
   * [Coding Genie](https://youtu.be/aSXaxOdVtAQ?t=362) 
   * [3X and LLMs](https://www.youtube.com/watch?v=wh-kwZ6Kvdo)
