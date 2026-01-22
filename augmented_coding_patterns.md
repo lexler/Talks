@@ -13,6 +13,8 @@
 
 ![Map](https://github.com/lexler/augmented-coding-patterns/blob/main/slides/map.png?raw=true)
 
+[Longer masterclass version](https://github.com/lexler/Talks/blob/main/augmented_coding_patterns_masterclass.md)
+
 ## Videos
 * [Calgary Software Crafters 2025](https://www.youtube.com/watch?v=_LSK2bVf0Lc)
 
