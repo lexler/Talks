@@ -1,7 +1,7 @@
 # Core Patterns for Coding with AI
 
 ## Talk Resources
-* Slides (coming soon)
+* [Slides](https://github.com/lexler/Talks/raw/refs/heads/main/Slides/Core%20Patterns%20for%20Coding%20with%20AI.pptx)
 
 ## Lada Kesseler<!-- include: lada.md -->
 
