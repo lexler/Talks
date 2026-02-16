@@ -20,6 +20,7 @@ Over the past year, she's been exploring how to bring the same rigor and craft t
 
 ## Talks
 * [Augmented Coding: Mapping the Uncharted Territory](augmented_coding_patterns.md)
+* [Core Patterns for Coding with AI](core_patterns_for_coding_with_ai.md)
 * [Telling Better Stories with Tests](telling_better_stories_with_tests.md)
 
 ## Masterclasses
