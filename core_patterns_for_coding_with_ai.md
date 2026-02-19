@@ -2,6 +2,10 @@
 
 ## Talk Resources
 * [Slides](https://github.com/lexler/Talks/raw/refs/heads/main/Slides/Core%20Patterns%20for%20Coding%20with%20AI.pptx)
+* [Detailed Patterns](https://github.com/lexler/augmented-coding-patterns)
+* [Companion Website](https://lexler.github.io/augmented-coding-patterns)
+* [Full deep-dive talk — 27 patterns (Calgary Software Crafters)](https://www.youtube.com/watch?v=_LSK2bVf0Lc)
+* [Extended masterclass — 32 patterns](https://www.youtube.com/watch?v=M-zOSEJFNos&t=4638s)
 
 ## Lada Kesseler<!-- include: lada.md -->
 
