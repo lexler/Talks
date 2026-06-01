@@ -17,6 +17,9 @@
 
 This workshop is an extension of [Augmented Coding: Mapping the Uncharted Territory](augmented_coding_patterns.md)
 
+## Videos
+* [AI Native DevCon 2025, New York](https://www.youtube.com/watch?v=M-zOSEJFNos)
+
 ## Lada Kesseler<!-- include: lada.md -->
 
 * [LinkedIn](https://www.linkedin.com/in/lada-kesseler/)

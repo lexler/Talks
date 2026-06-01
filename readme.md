@@ -19,10 +19,12 @@ Over the past year, she's been exploring how to bring the same rigor and craft t
 * [Bluesky](https://bsky.app/profile/lexler.bsky.social)
 
 ## Talks
-* [Augmented Coding: Mapping the Uncharted Territory](augmented_coding_patterns.md)
-* [Core Patterns for Coding with AI](core_patterns_for_coding_with_ai.md)
-* [Patterns for Coding with AI](patterns_for_coding_with_ai.md) — Craft Conference, Budapest 2026
-* [Telling Better Stories with Tests](telling_better_stories_with_tests.md)
 
-## Masterclasses
-* [Emerging Patterns for Coding with Generative AI](augmented_coding_patterns_masterclass.md)
+### 2026
+* [Patterns for Coding with AI](patterns_for_coding_with_ai.md) — Craft Conference, Budapest
+* [Core Patterns for Coding with AI](core_patterns_for_coding_with_ai.md) — SoftEd
+
+### 2025
+* [Emerging Patterns for Coding with Generative AI](augmented_coding_patterns_masterclass.md) (masterclass) — AI Native DevCon, New York
+* [Augmented Coding: Mapping the Uncharted Territory](augmented_coding_patterns.md) — Calgary Software Crafters
+* [Telling Better Stories with Tests](telling_better_stories_with_tests.md) — Craft Conference, Budapest

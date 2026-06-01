@@ -15,7 +15,7 @@ Great programmers listen to their code. There are so many ways to make tests tel
 
 ## Videos
 
-* Craft Conference 2025, Budapest (recording coming out soon)
+* [Craft Conference 2025, Budapest](https://www.youtube.com/watch?v=h5vXHrL7ETQ)
 * [Calgary Software Crafters 2024](https://www.youtube.com/watch?v=TTDT2arrvpY)
 * [Seattle Software Crafters 2024](https://www.youtube.com/watch?v=QEdpE0chA-s)
 
