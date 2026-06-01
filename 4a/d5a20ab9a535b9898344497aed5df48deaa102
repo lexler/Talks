@@ -1,0 +1,24 @@
+readme.md
+  s_e3263f3714d48d::t_1835d38ee57b60 24
+patterns_for_coding_with_ai.md
+  s_e3263f3714d48d::t_6e1e7d1c8ae524 31
+  s_e3263f3714d48d::t_44a646a8a55601 3,5
+  s_e3263f3714d48d::t_7b04bd1e89453d 18
+  s_e3263f3714d48d::t_330c66b26d9449 1-2,4,6-17,19-30,32-38
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "4ad5a20ab9a535b9898344497aed5df48deaa102",
+  "prompts": {},
+  "sessions": {
+    "s_e3263f3714d48d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "83362621-efc7-46c8-8fec-54c5178fc711",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Lada Kesseler <archie.kesseler@gmail.com>"
+    }
+  }
+}
