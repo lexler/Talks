@@ -1,7 +1,5 @@
 # Patterns for Coding with AI
 
-Talk at [Craft Conference](https://craft-conf.com/), Budapest 2026 (90 min)
-
 ## Talk Resources
 * [Slides](https://raw.githubusercontent.com/lexler/Talks/main/Slides/Craft%202026%20Patterns%20for%20AI.pptx)
 * [Detailed Patterns](https://github.com/lexler/augmented-coding-patterns)
@@ -16,6 +14,9 @@ Talk at [Craft Conference](https://craft-conf.com/), Budapest 2026 (90 min)
 * Elisabeth Hendrickson [chatGPT](https://www.youtube.com/watch?v=ky37oCoyUdI)
 
 This talk builds on [Emerging Patterns for Coding with Generative AI](augmented_coding_patterns_masterclass.md) and [Augmented Coding: Mapping the Uncharted Territory](augmented_coding_patterns.md)
+
+## Videos
+* Craft Conference 2026, Budapest (recording coming out soon)
 
 ## Lada Kesseler<!-- include: lada.md -->
 
@@ -34,5 +35,3 @@ We'll explore the inherent limitations of Generative AI alongside the new possib
 happens, but why it happens. Understanding these underlying dynamics equips you to adapt and combine patterns in powerful ways and come up with your own solutions. Real-world examples will show some of these combinations in action.
 
 You'll leave with techniques that aren't tied to any single LLM or coding agent - practical approaches you can apply immediately, as well as the mental models that keep you effective in this rapidly changing landscape.
-</content>
-</invoke>
