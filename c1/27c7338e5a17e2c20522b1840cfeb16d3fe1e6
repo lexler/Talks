@@ -1,0 +1,24 @@
+telling_better_stories_with_tests.md
+  s_e3263f3714d48d::t_6de221202a6c8b 18
+readme.md
+  s_e3263f3714d48d::t_6e8bc4595aaba3 23-27,29-30
+  s_e3263f3714d48d::t_9e8c62eb93b5db 28
+augmented_coding_patterns_masterclass.md
+  s_e3263f3714d48d::t_f35f96b5c2dea4 20-22
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "c127c7338e5a17e2c20522b1840cfeb16d3fe1e6",
+  "prompts": {},
+  "sessions": {
+    "s_e3263f3714d48d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "83362621-efc7-46c8-8fec-54c5178fc711",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Lada Kesseler <archie.kesseler@gmail.com>"
+    }
+  }
+}
