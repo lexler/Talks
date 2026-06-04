@@ -2,8 +2,9 @@
 
 ## Talk Resources
 * [Slides](https://raw.githubusercontent.com/lexler/Talks/main/Slides/Craft%202026%20Patterns%20for%20AI.pptx)
-* [Detailed Patterns](https://github.com/lexler/augmented-coding-patterns)
-* [Companion Website](https://lexler.github.io/augmented-coding-patterns)
+* [Companion Website](https://lexler.github.io/augmented-coding-patterns/talk/)
+* [Patterns Repository](https://github.com/lexler/augmented-coding-patterns/)
+* [Skill Factory](https://github.com/lexler/skill-factory)
 * Kent Beck
     * [Coding Genie](https://youtu.be/aSXaxOdVtAQ?t=362)
     * [3X and LLMs](https://www.youtube.com/watch?v=wh-kwZ6Kvdo)
@@ -12,6 +13,8 @@
     * [Refactoring Process](https://github.com/LearnWithLlew/AgenticAi.Java.StarterProject/blob/master/.windsurf/processes/TDD.refactoring.process.md)
     * [Telling Better Stories with Tests](https://www.youtube.com/watch?v=h5vXHrL7ETQ&list=PLcTa2e7_ENN8cryNl4LZtszr_gyoqbAVm&index=5) - demonstrates Semantic Zoom in tests & shows how iterative refinement allows you to see more and get to so much better.
 * Elisabeth Hendrickson [chatGPT](https://www.youtube.com/watch?v=ky37oCoyUdI)
+
+![Map](https://raw.githubusercontent.com/lexler/Talks/refs/heads/main/images/map_v3.png?raw=true)
 
 This talk builds on [Emerging Patterns for Coding with Generative AI](augmented_coding_patterns_masterclass.md) and [Augmented Coding: Mapping the Uncharted Territory](augmented_coding_patterns.md)
 
