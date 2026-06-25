@@ -1,7 +1,7 @@
 # Patterns for Coding with AI
 
 ## Talk Resources
-* [Slides](https://raw.githubusercontent.com/lexler/Talks/main/Slides/Craft%202026%20Patterns%20for%20AI.pptx)
+* [Slides](https://raw.githubusercontent.com/lexler/Talks/main/Slides/Patterns%20for%20Coding%20with%20AI.pptx)
 * [Companion Website](https://lexler.github.io/augmented-coding-patterns/talk/)
 * [Patterns Repository](https://github.com/lexler/augmented-coding-patterns/)
 * [Skill Factory](https://github.com/lexler/skill-factory)
