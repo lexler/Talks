@@ -1,0 +1,19 @@
+patterns_for_coding_with_ai.md
+  s_5c29e268fc9b28::t_4dd4e180d6b764 4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.13",
+  "base_commit_sha": "b7d50a18a34956c9a73479e216fc45d123f03283",
+  "prompts": {},
+  "sessions": {
+    "s_5c29e268fc9b28": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c0e0e6c3-4608-42e9-bdc4-92c101a01fec",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Lada Kesseler <archie.kesseler@gmail.com>"
+    }
+  }
+}
