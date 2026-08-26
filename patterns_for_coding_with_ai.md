@@ -19,7 +19,8 @@
 This talk builds on [Emerging Patterns for Coding with Generative AI](augmented_coding_patterns_masterclass.md) and [Augmented Coding: Mapping the Uncharted Territory](augmented_coding_patterns.md)
 
 ## Videos
-* Craft Conference 2026, Budapest (recording coming out soon)
+* [Craft Conference 2026, Budapest](https://www.youtube.com/watch?v=gTgEZsfyzoo)
+* [Seattle Software Crafters, June 2026](https://www.youtube.com/watch?v=86OyIsju01Q)
 
 ## Lada Kesseler<!-- include: lada.md -->
 
