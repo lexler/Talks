@@ -22,7 +22,10 @@ Since November 2024, she's been exploring how to bring the same rigor and craft 
 ## Talks
 
 ### 2026
-* [Patterns for Coding with AI](patterns_for_coding_with_ai.md) — Craft Conference, Budapest
+* [AI Coding Patterns](https://talks.ai-coding-patterns.dev/explore-ddd-2026/) (workshop) — Explore DDD, Denver
+* [Augmented Coding Patterns](https://talks.ai-coding-patterns.dev/socrates-2026/) (workshop, with Lars Eckart) — SoCraTes Germany
+* [Patterns for Coding with AI](patterns_for_coding_with_ai.md) — Seattle Software Crafters · [video](https://www.youtube.com/watch?v=86OyIsju01Q) · [slides](https://talks.ai-coding-patterns.dev/talk-v3/)
+* [Patterns for Coding with AI](patterns_for_coding_with_ai.md) — Craft Conference, Budapest · [video](https://www.youtube.com/watch?v=gTgEZsfyzoo) · [slides](https://talks.ai-coding-patterns.dev/talk-v3/)
 * [Core Patterns for Coding with AI](core_patterns_for_coding_with_ai.md) — SoftEd
 
 ### 2025
